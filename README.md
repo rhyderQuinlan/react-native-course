@@ -16,7 +16,7 @@ Made use of:
 - Styling (FlexBox)
 - [Axios](https://github.com/axios/axios)
 - States
-- Passingn Props
+- Passing Props
 - Object reuseability (Eg. Button object)
 - Debugger
 
