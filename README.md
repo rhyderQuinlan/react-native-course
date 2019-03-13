@@ -20,5 +20,5 @@ Made use of:
 - Object reuseability (Eg. Button object)
 - Debugger
 
-![Screenshot of Albums App](https://raw.githubusercontent.com/rhyderQuinlan/react-native-course/master/albums/screenshot/screenshot_album.jpg)
+![Screenshot of Albums App](https://raw.githubusercontent.com/rhyderQuinlan/react-native-course/master/albums/screenshot/screenshot_albums.jpg)
 
