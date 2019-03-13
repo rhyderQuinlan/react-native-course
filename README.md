@@ -22,3 +22,4 @@ Made use of:
 
 ![Screenshot of Albums App](https://raw.githubusercontent.com/rhyderQuinlan/react-native-course/master/albums/screenshot/screenshot_albums.jpg)
 
+
